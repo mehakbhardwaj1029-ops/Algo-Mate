@@ -29,4 +29,7 @@ Frontend Setup
 
 Navigate to "http://localhost:5173" to access it
 
+Project is live on https://algomacanger.netlify.app/
+P.S - Your first request might give you a few minutes delayed response because of deployed backend.
+
 
